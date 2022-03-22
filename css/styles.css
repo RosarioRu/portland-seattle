@@ -1,0 +1,13 @@
+.Portland {
+  color: green;
+  font-style: italic;
+}
+
+.Seattle {
+  color: rgb(19, 19, 231);
+  font-style: italic;
+}
+
+.both {
+  background-color: aqua;
+}
