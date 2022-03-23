@@ -1,13 +1,19 @@
 .Portland {
   color: green;
   font-style: italic;
+  margin-top: 50px;
+  margin-bottom:50px;
 }
 
 .Seattle {
   color: rgb(19, 19, 231);
   font-style: italic;
+  margin-top: 20px;
+  margin-bottom:20px;
 }
 
 .both {
   background-color: aqua;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
